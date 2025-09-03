@@ -9,7 +9,7 @@ const contactRoutes = [
     icon: Mail,
     label: "Email",
     value: "reach2yatharth@gmail.com",
-    href: "mailto:your.email@example.com",
+    href: "mailto:reach2yatharth@gmail.com",
     description: "Drop me a line for collaborations",
   },
   {
@@ -23,7 +23,7 @@ const contactRoutes = [
     icon: Linkedin,
     label: "LinkedIn",
     value: "in/yatharthgupta",
-    href: "https:www.linkedin.com/in/yatharth-gupta-7744b3325",
+    href: "https://www.linkedin.com/in/yatharth-gupta-7744b3325",
     description: "Let's connect professionally",
   },
   {
