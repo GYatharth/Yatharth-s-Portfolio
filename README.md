@@ -1,8 +1,16 @@
 # Yatharth's Portfolio Website
 # Money Heist Theme
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+
 ## Description:
 This is a creative portfolio website whose theme is inspired by the popular Money Heist series. The design captures the bold, mysterious, and edgy vibe of the show with a unique blend of creativity and thrill. This theme reflects my personal style and showcases my skills and projects with flair, making it memorable and engaging for visitors and recruiters alike.
+
+ **Live Demo**: [https://yatharth-s-portfolio.vercel.app/](https://yatharth-s-portfolio.vercel.app/) 
 
 ## Features:
 - Distinctive Money Heist inspired color palette and typography
